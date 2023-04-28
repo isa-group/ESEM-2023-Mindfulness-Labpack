@@ -8,5 +8,6 @@ The labpack is structured as follows:
    * *minfulness-inpro-maas.csv*:  This file contains the data associated to the *maas* questionnaire, used to study the attention awarenes of the experimental subjects.
    * *minfulness-inpro-welfare.csv*: Thi file contains the data associated to the ad-hoc questionnaire created to study the welfare of the experimental subjects.
    * *subjectData*: In this folder you will find the files associated to the performance data:
-     * *SupportTasks.csv*: Data extracted from the 
+     * *SupportTasks.csv*: Data about the tasks performed by the staff in the operations department extracted from the log of GLPI.
+     * *DevelopmentTasks.csv*: Data about the tasks performed by the staff in the development department extracted from the log of REDMINE.
    
