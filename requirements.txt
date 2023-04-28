@@ -1,0 +1,7 @@
+pandas
+plot-likert
+matplotlib
+seaborn
+tableone
+pingouin
+jupyter
