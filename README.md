@@ -21,6 +21,6 @@ The labpack is structured as follows:
      * *SupportTasks.csv*: Data about the tasks performed by the staff in the operations department extracted from the log of GLPI.
      * *DevelopmentTasks.csv*: Data about the tasks performed by the staff in the development department extracted from the log of REDMINE.
    
-   Please, note that the jupyter notebooks generato also several csv files used for symplifying the analysis in JASP. However, all those files are transformed/formatted versions of the data provided in the files enumerated above.
+   Please, note that the jupyter notebooks generate several .csv files used for symplifying the analysis in JASP. However, all those files are transformed/formatted versions of the data provided in the files enumerated above.
 * In the *jasp* folder you can find all the jasp analysis files for the output variables, we use this tool to perform statistical analysises of the    
 The remainder of the folders of this lab-pack, namely *latex* and *figures*  are output folders, whose content is genelated in an automated way by the analysis notebooks.
