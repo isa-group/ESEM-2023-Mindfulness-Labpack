@@ -3,7 +3,8 @@
 This repository contains the lab pack of the article '*Cultivating mindfulness in a software company: impact on psycho-cognitive factors and performance*'. Specifically, this lab pack contains experimental materials, datasets, statistical analysis scripts, and raw results of script execution, including plots. Additionally, the lab pack includes a full report of the sphericity and homoscedasticity tests in the results, which are also available for studying the applicability of parametric tests.
 The labpack is structured as follows:
  * In the *root* folder of the repository you will find the python jupiter notebook files used to perform the main analyses carried out in this paper and to generate all the figures and tables shown in the paper. Specifically, you will find all two notebooks:
-   * *DataAnalysis.ipynb*: This notebook extract the demographics of the individuals ana analyzes all the plycho-cognitive factors.
+   * *DataAnalysis.ipynb*: This notebook extracts the demographics of the individuals ana analyzes all the plycho-cognitive factors.
+   * *Performance Data Analysis Extended.ipynb*: This notebook transforms the log data about individual tasks, aggregates it into subect-wise metrics and analyzes the performance metric.
  * In the la *data* folder you will find all the raw data used in this paper in CSV format, specifically, you will find the following:
    * *minfulness-inpro-demographics-with-dept.csv*: This file contains the demographic data of the whole sample, including the department column which determines the department of each experimental subject.
    * *minfulness-inpro-additional-questions.csv*: This file contains the data associated to the *techno-stress* questionnaire.
